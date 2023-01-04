@@ -13,7 +13,6 @@ Development Status : <mark style="background-color: red"> &nbsp; NOT ACTIVE &nbs
 
 &nbsp;
 ## General Information
----
 
  This is the project files for our Shapeoko 3 xxl. Our goal is to make our shapeoko 3 as automated as possible. To achive this goal we have installed multiple upgrades onto our cnc including: 
 - [x] Automated Tool Change
@@ -26,7 +25,6 @@ Development Status : <mark style="background-color: red"> &nbsp; NOT ACTIVE &nbs
 
 &nbsp;
 ## WATCH NOW ON YOUTUBE
----
 
  Watch the project playlist on youtube. 
 
@@ -36,7 +34,7 @@ Development Status : <mark style="background-color: red"> &nbsp; NOT ACTIVE &nbs
 
 &nbsp;
 ## Support
----
+
 Did this project help you? Consider supporting! 
 
 Consider Subscribing: https://bit.ly/2DgZyuq <br>
@@ -47,7 +45,7 @@ Venmo ➔ https://venmo.com/u/JenkinsRobotics <br>
 
 &nbsp;
 ## Table of Contents
----
+
 
 **[Project File Structure](#project-file-structure)**<br>
 **[Installation Instructions](#installation-instructions)**<br>
@@ -59,7 +57,7 @@ Venmo ➔ https://venmo.com/u/JenkinsRobotics <br>
 
 &nbsp;
 ## Project File Structure
----
+
 The following is a breakdown of the different folders and the files contained in them:
 
 1. **FUSION 360 POST PROCESSOR**
@@ -112,7 +110,7 @@ The following is a breakdown of the different folders and the files contained in
 
 &nbsp;
 ## Installation Instructions
----
+
 Installation instructions can be found in the youtube video linked below 
  
 
@@ -155,7 +153,7 @@ firefox/
 
 &nbsp;
 ## Next Steps
----
+
 This project is now completed. No next steps are planned. We can release bug fixes if found. 
 
 If you require assistant join our discord channel linked down below.
@@ -164,7 +162,7 @@ If you require assistant join our discord channel linked down below.
 
 &nbsp;
 ## Components 
----
+
 The following is a breakdown of key components for this project:
 &nbsp;
 | Item          | Function      | Cost  |
@@ -187,7 +185,7 @@ That’s  all Folks. Hope this can help you in some way.
 
 &nbsp;
 ## Links
----
+
 
 SUPPORT US ► 
 
