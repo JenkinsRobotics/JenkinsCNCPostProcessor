@@ -1,5 +1,5 @@
 ## Jenkins Robotics
-# Jenkins CNC
+# Jenkins CNC Post Processor
 
 <!-- This is commented out. -->
 
@@ -14,7 +14,7 @@ Development Status : <mark style="background-color: red"> &nbsp; NOT ACTIVE &nbs
 &nbsp;
 ## General Information
 
- This is the project files for our Shapeoko 3 xxl. Our goal is to make our shapeoko 3 as automated as possible. To achive this goal we have installed multiple upgrades onto our cnc including: 
+ This is the project files for our reprap post processor used on our Shapeoko 3. Our goal is to make a universal / flexable post processor for our shapeoko. Our post processor supports features including: 
 - [x] Automated Tool Change
 - [x] Manual Tool Change
 - [x] Coolent 
